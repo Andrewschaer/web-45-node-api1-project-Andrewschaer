@@ -2,9 +2,9 @@
 
 ## Introduction
 
-- Building a RESTful API.
-- Performing CRUD operations.
-- Writing API endpoints.
+X Building a RESTful API.
+X Performing CRUD operations.
+X Writing API endpoints.
 
 ## Instructions
 
